@@ -1,11 +1,11 @@
 # Arduino driven car using MATLAB GUI integrated with Simulink
 - Project has 2 modes of operation: 
-    1) manual control through gui buttons 
-    2) line follower 
+    1) manual control through gui buttons. 
+    2) line follower.
 
 - Notes and Constraints:
-    1) You should switch between 2 operations through UI 
-    2) Project should be implemented using "arduino simulink library"  
+    1) You should switch between 2 operations through UI. 
+    2) Project should be implemented using "arduino simulink library". 
 
 - Requirements: 
     1) arduino board.
