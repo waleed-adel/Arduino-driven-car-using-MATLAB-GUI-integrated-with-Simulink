@@ -1,0 +1,31 @@
+updown.o: D:/MATLAB~1/rtw/c/src/ext_mode/common/updown.c \
+ D:/MatLab_Projects/Arduino_Simulink_CarController_ert_rtw/rtwtypes.h \
+ D:/MATLAB~1/simulink/include/rtw_extmode.h \
+ D:/MATLAB~1/simulink/include/sysran_types.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_svr.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_work.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/updown_util.h \
+ D:/MATLAB~1/rtw/c/src/dt_info.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/upsup_public.h
+
+D:/MatLab_Projects/Arduino_Simulink_CarController_ert_rtw/rtwtypes.h:
+
+D:/MATLAB~1/simulink/include/rtw_extmode.h:
+
+D:/MATLAB~1/simulink/include/sysran_types.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_svr.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_work.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/updown_util.h:
+
+D:/MATLAB~1/rtw/c/src/dt_info.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/upsup_public.h:

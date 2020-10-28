@@ -1,0 +1,26 @@
+ext_svr_serial_transport.o: \
+ D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_svr_serial_transport.c \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/updown_util.h \
+ D:/MatLab_Projects/Arduino_Simulink_CarController_ert_rtw/rtwtypes.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/MATLAB~1/simulink/include/rtw_extmode.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_serial_port.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_serial_pkt.h \
+ D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_serial_utils.c
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/updown_util.h:
+
+D:/MatLab_Projects/Arduino_Simulink_CarController_ert_rtw/rtwtypes.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/MATLAB~1/simulink/include/rtw_extmode.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_serial_port.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_serial_pkt.h:
+
+D:/MATLAB~1/rtw/c/src/ext_mode/serial/ext_serial_utils.c:
